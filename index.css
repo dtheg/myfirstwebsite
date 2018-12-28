@@ -1,0 +1,167 @@
+/* Home */
+	.tab { margin-left: 215px; 
+	}
+	
+	ul#menu li {
+    	display:inline;
+	}
+	
+	.tab2 {
+	margin-left:150px; 
+	  }
+	.tab3 {
+	margin-right:100px;
+	}
+	
+	
+    	.body{
+	
+    	background-attachment: fixed;
+    	background-image: url(http://www.handymanservices.sg/wp-content/uploads/2017/03/photodune-1390839-different-tools-m-1.jpg);
+    	
+    	position: absolute;
+    	left: 0;
+    	top: 0;
+    	width: 100%;
+    	height: 100%;
+    	z-index: 1;
+    	background-color: hsla(0,0%,200%,0);
+    	background-blend-mode: overlay;
+    	background-repeat: repeat;
+    	}
+    	body{
+     	margin: 0 0 0px 0px;
+	}
+    	
+    	/* div.container {
+    	width: 100%;
+    	height: 100%;
+    	
+    
+    	}
+    	
+    	
+    	
+	/* .shadowOutline {
+ 	text-shadow: 0 0 1px #7D3C98, 0 0 1px #7D3C98, 0 0 1px #7D3C98, 0 0 1px #7D3C98, 0 0 1px #7D3C98, 0 0 1px #7D3C98, 0 0 1px #7D3C98, 
+  	0 0 1px #7D3C98, 0 0 1px #7D3C98, 0 0 1px #7D3C98, 0 0 1px #7D3C98;
+	} 
+	*/
+	.c {
+    	text-decoration-line: underline;
+    	text-decoration-style: double;
+	}
+	
+	/* header {
+		margin-top:0;
+		margin-left:10px;
+		margin-right:20px;
+		margin-bottom:20px;
+		padding: 0px;
+		background-color: white;
+		clear: left;
+		text-align: center;
+		border: 1px solid gray;
+		} */
+	.bar {
+	    text-align: center;
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden;
+	    border-bottom: 1px solid #550080;
+	    color:#F7F7F7;
+	}
+	
+		
+	
+		
+	h1 {
+		text-align: center;
+		font-size:330%; 
+		font-family:arial black; 
+		color:#7D3C98;
+		margin-left:0px;
+		margin-right:0px;
+		margin-bottom:0px;
+		margin-top:0px;
+		background-color:#00FFFF;
+	}
+	p {
+		padding:10px;
+		text-align: center;
+		font-size:120%; 
+		font-family:Times New Roman; 
+		color:#7D3C98;
+		margin-left:0px;
+		margin-right:0px;
+		margin-bottom:0px;
+		margin-top:0px;
+		background-color:#F0F0F0;
+	}
+
+	ul {
+		font-size:1.8vw
+	 	id="menu"
+	}
+
+	button {
+		margin-top: 10em;
+		width:100px;
+		height:40px;
+		font-family:arial black;
+		color:#7D3C98;
+        	margin-right:40px;
+        	
+	}
+
+	.p1 {
+		
+		padding: 10px;
+		background-color:#F0F0F0;
+		border:0;
+		margin-top: 120px;
+		font-size:105%;
+		font-family:arial black;
+		color: #7D3C98;
+	}
+
+	.p2 {
+		font-size:100%;
+		font-family:arial black;
+		color:white;
+	}
+
+	.p3 {
+		float: center;
+	}
+
+	footer {
+		font-family: arial; 
+		color:white; 
+		margin-top:600px; 
+		margin-bottom:20px; 
+		color:#5E7BFF;
+	}
+
+	a {
+		color: #0431FC;
+	}
+
+    	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
